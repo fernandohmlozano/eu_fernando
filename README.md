@@ -22,16 +22,14 @@ Ainda quero ter um tempo para aprender inglês.
 
 
 **Matérias finalizadas até aqui:**
-* Fundamentos de Banco de Dados
-* IoT
-* Linguagem de Programação
-* Lógica de Programação
-* Matemática Aplicada
-* Comunicação e Expressão
-* Ambiente de Desenvolvimento e Operação
-* Análise Exploratória de Dados
-* Desenvolvimento de Sistemas
-* Engenharia de Software
-* Gestão de Projetos
-* Linguagem SQL
-* Sociedade e Sustentabilidade
+
+
+| 1º Semestre | 2º Semestre |
+| ------------| ----------- |
+| Fundamentos de Banco de Dados  | Linguagem SQL  |
+| IoT | Ambiente de Desenvolvimento e Operação  |
+| Linguagem de Programação | Engenharia de Software |
+| Lógica de Programação | Desenvolvimento de Sistemas |
+| Matemática Aplicada | Análise Exploratória de Dados |
+| Comunicação e Expressão | Sociedade e Sustentabilidade  |
+|  | Gestão de Projetos |
